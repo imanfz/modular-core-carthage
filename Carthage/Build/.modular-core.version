@@ -1,0 +1,25 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "df8947fc2730552aa095721bc402ed05462c3c39",
+  "iOS" : [
+    {
+      "hash" : "6a30faef710a9a85e909ae78f71306686918c9e839736c19256f8127c2ab9de4",
+      "name" : "Core",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+    },
+    {
+      "name" : "Pods_Core",
+      "hash" : "eb5b7b98b74c86b903b954a2e189931d4c690aea501866043617644dae6124ba",
+      "linking" : "static"
+    }
+  ]
+}
